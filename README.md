@@ -1,2 +1,3 @@
 # Tracer
 Motion tracking of coloured discs
+This make take a while, given the current level of ignorance...
